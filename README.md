@@ -27,7 +27,7 @@ _\* Indique un système d'exploitation et une version qui étaient précédemmen
 📋 Voici une brève description de chaque étape :
 
 ⚠️ Mettez à jour et mettez à niveau votre système en exécutant la commande suivante :
-```sudo apt update && sudo apt upgrade -y```
+```sudo apt update && sudo apt upgrade -y```*
 🕊️ Installez Pterodactyl en exécutant la commande suivante :
 ```bash <(curl -s https://pterodactyl-installer.se)```
 ✌️ Choisissez l'option **2** pour installer à la fois le **panel** et le **wings**.
@@ -46,5 +46,5 @@ _\* Indique un système d'exploitation et une version qui étaient précédemmen
 
 ✅ Maintenant que vous avez suivi ces étapes, vous pouvez maintenant utiliser Pterodactyl pour héberger des serveurs de jeux ou autre et gérer leur configuration à partir d'une interface graphique conviviale.
 
-🥸 Si vous rencontrez des problèmes lors de l'installation, n'hésitez pas à rechercher des ressources en ligne pour obtenir de l'aide ou à contacter un expert pour vous assister. 
+🥸 Si vous rencontrez des problèmes lors de l'installation, n'hésitez pas à rechercher des ressources en ligne pour obtenir de l'aide ou à contacter un expert pour vous assister.
 ([Pterodactyl](https://pterodactyl.io/) - [GitHub](https://github.com/pterodactyl-installer/pterodactyl-installer) - [Youtube](https://www.youtube.com/watch?v=E8UJhyUFoHM))
