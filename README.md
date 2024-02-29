@@ -43,5 +43,5 @@
 
 🥸 Si vous rencontrez des problèmes lors de l'installation, n'hésitez pas à me contacter ou à rechercher des ressources en ligne pour obtenir de l'aide. 
 - [Site web de Pterodactyl](https://pterodactyl.io/)
-- [Github du script d'installation](https://github.com/pterodactyl-installer/pterodactyl-installer)
+- [Github du script d'installation de Pterodactyl](https://github.com/pterodactyl-installer/pterodactyl-installer)
 - [Tuto YouTube](https://www.youtube.com/watch?v=E8UJhyUFoHM)
