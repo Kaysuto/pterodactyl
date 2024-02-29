@@ -1,6 +1,6 @@
-## ☕ Ces étapes sont une procédure d'installation du panneau de gestion Pterodactyl, une solution open-source pour héberger des serveurs de jeux en ligne.
+☕ Ces étapes sont une procédure d'installation du panneau de gestion Pterodactyl, une solution open-source pour héberger des serveurs de jeux en ligne.
 
-### ♨️ Version des systèmes d'exploitation pris en charge :
+♨️ Version des systèmes d'exploitation pris en charge :
 
 | Système d'exploitation     | Version | Supporté     | Version PHP |
 | ---------------- | ------- | ------------------ | ----------- |
