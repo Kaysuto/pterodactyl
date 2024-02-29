@@ -18,8 +18,10 @@
 📋 Voici une brève description de chaque étape :
 
 - ⚠️ Mettez à jour et mettez à niveau votre système en exécutant la commande suivante :
+
 ```sudo apt update && sudo apt upgrade -y```*
 - 🕊️ Installez Pterodactyl en exécutant la commande suivante :
+
 ```bash <(curl -s https://pterodactyl-installer.se)```
 - ✌️ Choisissez l'option **2** pour installer à la fois le **panel** et le **wings**.
 - 💾 Entrez les informations de la base de données que vous souhaitez utiliser. (facultatif)
