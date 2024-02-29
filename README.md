@@ -1,9 +1,6 @@
 
 # :bird: Installation de Pterodactyl | Version FR
 
-![Test Panel](https://github.com/pterodactyl-installer/pterodactyl-installer/actions/workflows/panel.yml/badge.svg)
-![Test Wings](https://github.com/pterodactyl-installer/pterodactyl-installer/actions/workflows/wings.yml/badge.svg)
-![Shellcheck](https://github.com/pterodactyl-installer/pterodactyl-installer/actions/workflows/shellcheck.yml/badge.svg)
 [![Discord](https://img.shields.io/discord/1027968386640117770?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EYzUxYd9Pk)
 
 ☕ Ces étapes sont une procédure d'installation du panneau de gestion **Pterodactyl**, une solution **open-source** pour héberger des serveurs de jeux en ligne.
