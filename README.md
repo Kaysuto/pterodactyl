@@ -22,6 +22,8 @@
 | AlmaLinux        | 8       | :white_check_mark: | 8.1         |
 |                  | 9       | :white_check_mark: | 8.1         |
 
+_\* Indique un système d'exploitation et une version qui étaient précédemment pris en charge par ce script.
+
 📋 Voici une brève description de chaque étape :
 
 ⚠️ Mettez à jour et mettez à niveau votre système en exécutant la commande suivante :
