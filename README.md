@@ -17,23 +17,23 @@
 
 📋 Voici une brève description de chaque étape :
 
-⚠️ Mettez à jour et mettez à niveau votre système en exécutant la commande suivante :
+- ⚠️ Mettez à jour et mettez à niveau votre système en exécutant la commande suivante :
 ```sudo apt update && sudo apt upgrade -y```*
-🕊️ Installez Pterodactyl en exécutant la commande suivante :
+- 🕊️ Installez Pterodactyl en exécutant la commande suivante :
 ```bash <(curl -s https://pterodactyl-installer.se)```
-✌️ Choisissez l'option **2** pour installer à la fois le **panel** et le **wings**.
-💾 Entrez les informations de la base de données que vous souhaitez utiliser. (facultatif)
-🌍 Sélectionnez le fuseau horaire correspondant à votre région. "**Europe/Paris**"
-👤 Ajoutez les informations de contact.
-🌐 Entrez le nom de domaine que vous souhaitez utiliser.
-🔥 Répondez "**oui**" lorsque vous êtes invité à configurer le pare-feu.
-🔰 Répondez "**oui**" lorsque vous êtes invité à autoriser HTTPS.
-⌨️ Procédez à l'installation en appuyant sur "**Entrée**".
-🔒 Acceptez les **conditions d'utilisation** de Let's Encrypt.
-❌ **Refusez** la configuration de la base de données.
-💢 **Refusez** la configuration du pare-feu.
-💨 **Refusez** une nouvelle configuration HTTPS.
-🤌 Procédez à l'installation pour **finaliser** l'installation de Pterodactyl.
+- ✌️ Choisissez l'option **2** pour installer à la fois le **panel** et le **wings**.
+- 💾 Entrez les informations de la base de données que vous souhaitez utiliser. (facultatif)
+- 🌍 Sélectionnez le fuseau horaire correspondant à votre région. "**Europe/Paris**"
+- 👤 Ajoutez les informations de contact.
+- 🌐 Entrez le nom de domaine que vous souhaitez utiliser.
+- 🔥 Répondez "**oui**" lorsque vous êtes invité à configurer le pare-feu.
+- 🔰 Répondez "**oui**" lorsque vous êtes invité à autoriser HTTPS.
+- ⌨️ Procédez à l'installation en appuyant sur "**Entrée**".
+- 🔒 Acceptez les **conditions d'utilisation** de Let's Encrypt.
+- ❌ **Refusez** la configuration de la base de données.
+- 💢 **Refusez** la configuration du pare-feu.
+- 💨 **Refusez** une nouvelle configuration HTTPS.
+- 🤌 Procédez à l'installation pour **finaliser** l'installation de Pterodactyl.
 
 ✅ Maintenant que vous avez suivi ces étapes, vous pouvez maintenant utiliser **Pterodactyl** pour héberger des serveurs de jeux ou autre et gérer leur configuration à partir d'une **interface graphique** conviviale.
 
