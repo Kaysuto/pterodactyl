@@ -39,6 +39,10 @@
 - 💨 **Refusez** une nouvelle configuration HTTPS.
 - 🤌 Procédez à l'installation pour **finaliser** l'installation de Pterodactyl.
 
+- Si les ports ne se sont pas ouvert automatiquement, vous pouvez faire cette commande : 
+  - ```sudo iptables -A INPUT -p tcp -m multiport --dports 25565,8080,2022,25560,25561,25562,25563,25564,25566,25570,8192 -j ACCEPT```
+  - ```iptables-save > /etc/iptables.rules```
+
 ✅ Maintenant que vous avez suivi ces étapes, vous pouvez maintenant utiliser **Pterodactyl** pour héberger des serveurs de jeux ou autre et gérer leur configuration à partir d'une **interface graphique** conviviale.
 
 🥸 Si vous rencontrez des problèmes lors de l'installation, n'hésitez pas à me contacter ou à rechercher des ressources en ligne pour obtenir de l'aide. 
